@@ -1,7 +1,8 @@
+| Nama      | Muhammad Din Al Ayubi |
+| ----------- | ----------- |
+| NIM     | 312010293       |
+| Kelas   | TI.22.A.3        |
 # Lab8web
-# Nama : Muhammad Din Al Ayubi
-# NIM : 312210293
-# Kelas : TI.22.A3
 ## Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
 2. Buat folder baru dengan nama lab8_php_database pada docroot webserver (htdocs)
